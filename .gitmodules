@@ -1,0 +1,15 @@
+[submodule "themes/hugo-theme-meme"]
+	path = themes/hugo-theme-meme
+	url = git@github.com:reuixiy/hugo-theme-meme.git
+[submodule "themes/hugo-PaperMod"]
+	path = themes/hugo-PaperMod
+	url = git@github.com:adityatelange/hugo-PaperMod.git
+[submodule "themes/hugo-theme-pixyll"]
+	path = themes/hugo-theme-pixyll
+	url = git@github.com:azmelanar/hugo-theme-pixyll.git
+[submodule "themes/hugo-theme-introduction"]
+	path = themes/hugo-theme-introduction
+	url = git@github.com:victoriadrake/hugo-theme-introduction.git
+[submodule "themes/doks"]
+	path = themes/doks
+	url = git@github.com:h-enk/doks.git
