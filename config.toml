@@ -5,7 +5,7 @@ title = 'My New Hugo Site'
 theme        = "hugo-PaperMod"
 
 paginate     = 20
-publishDir = "docs"
+publishDir = "public"
 
 [params]
   dateform        = "Jan 2, 2006"
