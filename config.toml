@@ -1,10 +1,10 @@
-baseURL = 'https://<username>.github.io/'
+baseURL = 'https://wcomnisky.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'wcomnisky-logbook'
 
 theme        = "hugo-PaperMod"
 
-paginate     = 20
+paginate     = 10
 publishDir = "public"
 
 [params]
@@ -14,7 +14,7 @@ publishDir = "public"
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "This is an example to show how cool Hugo and GitHub pages are together"
+  homeSubtitle = "A living reminder of my memories and learnings"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -23,8 +23,8 @@ publishDir = "public"
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
-  keywords = "homepage, blog"
+  description = "wcomnisky's logbook"
+  # keywords = "homepage, blog"
   images = [""]
 
 # [taxonomies]
@@ -34,9 +34,9 @@ publishDir = "public"
 
 [languages]
   [languages.en]
-    title = "4bes.nl-Hugo-Demo"
-    subtitle = "A simple theme for Hugo"
-    keywords = ""
+    title = "wcomnisky-logbook"
+    subtitle = "A living reminder of my memories and learnings"
+    # keywords = "logbook, blog, memories, learnings"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
